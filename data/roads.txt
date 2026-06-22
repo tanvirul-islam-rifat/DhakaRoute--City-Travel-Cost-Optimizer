@@ -1,0 +1,16 @@
+Mirpur,Farmgate,18,3
+Mirpur,Dhanmondi,22,2
+Mirpur,Uttara,30,5
+Dhanmondi,Farmgate,10,2
+Dhanmondi,Motijheel,25,3
+Gulshan,Mohakhali,12,2
+Gulshan,Banani,7,1
+Gulshan,Badda,14,5
+Gulshan,Bashundhara,16,3
+Banani,Mohakhali,8,2
+Banani,Uttara,20,3
+Uttara,Bashundhara,25,6
+Motijheel,Mohakhali,20,7
+Mohakhali,Farmgate,15,4
+Badda,Bashundhara,10,4
+Badda,Old Dhaka,30.0,5.0
