@@ -2,8 +2,6 @@
 
 A real-world routing tool that models city areas as a **weighted graph** and solves three distinct travel problems using variations of Dijkstra's algorithm: finding the fastest route, finding the *safest* route (not the same thing!), and finding the fairest meeting point for a group scattered across the city.
 
-Built as a course project for **CSE221 – Algorithms** at BRAC University.
-
 ---
 
 ## The Real-World Problems
