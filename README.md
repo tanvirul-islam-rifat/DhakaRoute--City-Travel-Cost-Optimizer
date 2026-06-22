@@ -30,7 +30,7 @@ All three are solved using the same underlying weighted-graph model, demonstrati
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourGitHubUsername/dhakaroute-travel-optimizer.git
+git clone https://github.com/tanvirul-islam-rifat/DhakaRoute--City-Travel-Cost-Optimizer.git
 cd dhakaroute-travel-optimizer
 
 # Run the application (Python 3 required, no external libraries needed)
